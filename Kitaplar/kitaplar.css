@@ -1,0 +1,110 @@
+        footer { text-align: center; }
+        #üst { 
+            border: 2px solid #E7AB79; 
+            border-radius: 15px;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+        a {
+            text-decoration: none;
+        }
+        img {
+            border: 2px solid #4C3A51;
+        }
+        #orta {
+            border: 2px solid #E7AB79;
+        }
+        .genişle { 
+            padding: 5px;
+        
+        }
+        #başlık {
+            height: 85px;
+        }
+        #haklar {
+            border: 2px solid #B25068;
+            margin-left: 400px;
+            margin-right: 400px;
+            background-color: #774360;
+            color: #E7AB79;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            border-radius: 5px;
+        }
+        .özet {
+            color: #e4e099;
+        }
+        #geridön {
+            border: 1px solid #E7AB79;
+            border-radius: 5px;
+            padding: 1px;
+        }
+        .gölgelibaslık {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            border-radius: 5px;
+            margin-left: 40px;
+            margin-top: 40px;
+            margin-bottom: 40px;
+            padding-left: 10px;
+        }
+        #insta {
+            width: 25px;
+        }
+        #gıthub {
+            width: 20px;
+            padding-left: 3px;
+        }
+        .değişmesin {
+            border: 0px;
+        }
+        #değiştirilecek {
+            margin-top: 2px;
+            margin-bottom: 2px;
+            border: 2px solid #B25068;
+            margin-left: 150px;
+            margin-right: 150px;
+            border-radius: 5px;
+            text-align: center;
+            background-color: #4C3A51;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+        #mading {
+            text-align: center;
+            margin-top: 4px;
+            margin-bottom: 4px;
+            border: 2px solid #B25068;
+            border-radius: 5px;
+            margin-left: 150px;
+            margin-right: 150px;
+            background-color: #4C3A51;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+        #mresimler {
+            border: 2px solid #B25068;
+            padding: 3px;
+            margin-top: 4px;
+            margin-bottom: 7px;
+            margin-left: 200px;
+            margin-right: 200px;
+            text-align: center;
+            border-radius: 5px;
+            background-color: #4C3A51;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        }
+        #maltmetin {
+            box-shadow: inset 0 0 0.5em rgba(0, 0, 0, 0.19);
+            padding: 5px;
+            border-radius: 5px;
+            margin-top: 4px;
+            margin-bottom: 4px;
+            margin-left: 50px;
+            margin-right: 50px;
+            background-color: #4C3A51;
+        }
+        body {
+            /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#4c3a51+55,4c3a51+74,0e0e0e+100 */
+            background: rgb(76,58,81); /* Old browsers */
+            background: -moz-linear-gradient(top,  rgba(76,58,81,1) 55%, rgba(76,58,81,1) 74%, rgba(14,14,14,1) 100%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(top,  rgba(76,58,81,1) 55%,rgba(76,58,81,1) 74%,rgba(14,14,14,1) 100%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(to bottom,  rgba(76,58,81,1) 55%,rgba(76,58,81,1) 74%,rgba(14,14,14,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c3a51', endColorstr='#0e0e0e',GradientType=0 ); /* IE6-9 */
+
+        }

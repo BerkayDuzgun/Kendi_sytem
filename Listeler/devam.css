@@ -1,0 +1,54 @@
+#insta {
+    width: 25px;
+}
+#gıthub {
+    width: 20px;
+    padding-left: 3px;
+}
+.değişmesin {
+    border: 0px;
+}
+#değiştirilecek {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 2px solid #B25068;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #4C3A51;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#mading {
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    border: 2px solid #B25068;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #4C3A51;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#mresimler {
+    border: 2px solid #B25068;
+    padding: 3px;
+    margin-top: 4px;
+    margin-bottom: 7px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #4C3A51;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#maltmetin {
+    box-shadow: inset 0 0 0.5em rgba(0, 0, 0, 0.19);
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #4C3A51;
+}
